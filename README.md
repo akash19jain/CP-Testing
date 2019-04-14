@@ -9,7 +9,11 @@ Find the second smallest element in the sequence.
 
 
 inc.c - Optimized Solution that gives an incorrect solution.  
+
 brute.cpp - Brute Force Soluion that gives the correct solution.  
+
 inp - Sample Input  
+
 gen.cpp - Test Case Generator (It generates a number N (the number of array elements) and then N distinct numbers between the given range.)  
+
 s.sh - Bash Script that test inc.c and brute.cpp against each other with a common input and breaks when a difference is found.  
